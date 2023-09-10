@@ -1,0 +1,48 @@
+{
+    "items": [
+        {
+            "name": "Appleee Juice",
+            "price": 1.5
+        },
+        {
+            "name": "Bboy for dummies",
+            "price": 7.5
+        },
+        {
+            "name": "Feathery pencil",
+            "price": 2.0
+        },
+        {
+            "name": "piano",
+            "price": 1599.99
+        },
+        {
+            "name": "c++ user manual",
+            "price": 0.01
+        },
+        {
+            "name": "Pokemon Black version",
+            "price": 100.0
+        },
+        {
+            "name": "fat+thd+poofu",
+            "price": 989.0
+        },
+        {
+            "name": "shuunpeisan+shoes",
+            "price": 56473829.0
+        },
+        {
+            "name": "f+f+f+f+f+",
+            "price": 1.0
+        },
+        {
+            "name": "this is tendo maya",
+            "price": 0.0
+        },
+        {
+            "name": "CHIICHAN DANSU",
+            "price": 12.0
+        }
+    ]
+}
